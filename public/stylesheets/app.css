@@ -1,0 +1,42 @@
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+header{
+    color: #aef2e7;
+    background-color: #379687;
+    text-transform: uppercase;
+}
+
+nav ul li{
+    list-style-type: none;
+    float:left;
+    margin: 10px;
+}
+
+nav ul li a:hover{
+    color: black;
+    font-size: 20px;
+}
+
+.user-info{
+    color: black;
+}
+
+footer a{
+    size: 10px;
+}
+
+.post .user-info img{
+    border-radius: 50%;
+}
+
+.post{
+    margin-bottom: 48px;
+    
+}
